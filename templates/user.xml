@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="pprint" value="import pprint; pprint.pprint($STMT$)" description="pprint" toReformat="false" toShortenFQNames="true">
+    <variable name="STMT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
