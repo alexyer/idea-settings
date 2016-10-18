@@ -8340,7 +8340,7 @@
         <entry key="Sandbox.py" value="" />
         <entry key="Sandro-Mello" value="" />
         <entry key="Sanescript" value="" />
-        <entry key="Sanic" value="" />
+        <entry key="Sanic" value="0.1.3" />
         <entry key="Sanity" value="" />
         <entry key="Santos" value="" />
         <entry key="SassPython" value="" />
@@ -42706,7 +42706,7 @@
         <entry key="httpstatus35" value="" />
         <entry key="httpstream" value="" />
         <entry key="httptestserver" value="" />
-        <entry key="httptools" value="" />
+        <entry key="httptools" value="0.0.9" />
         <entry key="httputil" value="" />
         <entry key="httputils" value="" />
         <entry key="httpx" value="" />
@@ -60210,7 +60210,7 @@
         <entry key="pioneer" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -75893,7 +75893,7 @@
         <entry key="setupreader" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="28.6.0" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
@@ -85154,7 +85154,7 @@
         <entry key="ujs-jsonsyntax" value="" />
         <entry key="ujs-jsonvalidate" value="" />
         <entry key="ujs-safefile" value="" />
-        <entry key="ujson" value="" />
+        <entry key="ujson" value="1.35" />
         <entry key="ujson-bedframe" value="" />
         <entry key="ujson_delta" value="" />
         <entry key="ujsonpath" value="" />
@@ -85823,7 +85823,7 @@
         <entry key="uvc.content" value="" />
         <entry key="uvcclient" value="" />
         <entry key="uvio" value="" />
-        <entry key="uvloop" value="" />
+        <entry key="uvloop" value="0.5.4" />
         <entry key="uvp_adb" value="" />
         <entry key="uvs_utils" value="" />
         <entry key="uvsq.theme" value="" />
