@@ -5,7 +5,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="wow" value="print('wow')" toReformat="false" toShortenFQNames="true">
+  <template name="wow" value="print('wow')" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
