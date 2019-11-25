@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="load_staging_facts_video" type="SQL" />
       <mapping ext="shadow" type="YAML" />
     </extensionMap>
   </component>
